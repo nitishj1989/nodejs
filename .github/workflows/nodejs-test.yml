@@ -20,8 +20,3 @@ jobs:
       - name: Run tests
         run: npm test
 
-
-
--monitoring docuent
--print server end to end task.
--capacity planning documentation.
